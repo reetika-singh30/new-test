@@ -1,2 +1,3 @@
 # new-test
-new test repo
+new test repo in this directory
+
